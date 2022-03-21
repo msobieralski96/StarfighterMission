@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/mic459/documents/visual studio 2015/Projects/StarfighterMission/StarfighterMission/Content/smallfont.spritefont</SourceFile>
+  <SourceTime>2018-03-25T16:55:14.5012685+02:00</SourceTime>
+  <DestFile>C:/Users/mic459/documents/visual studio 2015/Projects/StarfighterMission/StarfighterMission/Content/bin/Android/smallfont.xnb</DestFile>
+  <DestTime>2018-04-23T19:56:35.3510051+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

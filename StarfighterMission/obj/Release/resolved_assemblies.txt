@@ -1,0 +1,11 @@
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\StarfighterMission.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\Java.Interop.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\Mono.Android.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\mscorlib.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\OpenTK-1.0.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\System.Core.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\System.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\System.Xml.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\MonoGame.Framework.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\mic459\documents\visual studio 2015\Projects\StarfighterMission\StarfighterMission\obj\Release\android\assets\System.ServiceModel.Internals.dll

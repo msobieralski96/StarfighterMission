@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/mic459/documents/visual studio 2015/Projects/StarfighterMission/StarfighterMission/Content/sounds/hit6.wav</SourceFile>
+  <SourceTime>2018-06-05T20:39:34+02:00</SourceTime>
+  <DestFile>C:/Users/mic459/documents/visual studio 2015/Projects/StarfighterMission/StarfighterMission/Content/bin/Android/sounds/hit6.xnb</DestFile>
+  <DestTime>2018-06-05T20:41:52.331476+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
